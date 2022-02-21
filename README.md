@@ -1,6 +1,9 @@
 # mi_card
 
-A new Flutter project.
+Udemy Anjela Yu Flutter Course practice : 
+https://www.udemy.com/course/flutter-bootcamp-with-dart/
+
+<img src = "https://user-images.githubusercontent.com/44460028/154956633-efeb5672-e5a4-464d-ad28-756bfd6007d6.png" width="30%" height="30%">
 
 ## Getting Started
 
